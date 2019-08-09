@@ -1,0 +1,25 @@
+{
+  "name": "rcondemand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "baconjs": "0.7.93",
+    "body-parser": "1.17.2",
+    "csv-string": "2.3.2",
+    "csv-stringify": "1.0.4",
+    "express": "4.15.2",
+    "express-session": "1.15.3",
+    "nano": "6.2.0",
+    "passport": "0.3.2",
+    "passport-local": "1.0.0",
+    "printf": "0.2.5",
+    "ramda": "0.23.0",
+    "seneca": "3.13.1"
+  }
+}
